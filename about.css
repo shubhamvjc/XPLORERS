@@ -1,0 +1,97 @@
+* {
+  color: #fff;
+}
+
+h2 {
+	font-family: 'Helvetica', cursive;
+	font-size: 40px;
+	color: #100000;
+	text-shadow: 1px 1px 1px #000, 3px 3px 5px grey;
+}
+
+#heading {
+	font-family: 'Helvetica', cursive;
+	background-color:#bfbfbf;
+	padding:10px;
+	font-size:30px;
+	margin:10px;
+	border-radius:20px;
+	color: #100000;
+}
+
+#heading h5 {
+	font-family: 'Lemon', cursive;
+	font-size:20px;
+	color: #000;
+
+}
+
+#heading p {
+	font-family: 'Nunito', sans-serif;
+	font-size:24px;
+	text-align:left;
+	color: #000;
+}
+
+#process {
+	font-family: 'Helvetica', cursive;
+	background-color:#efefef;
+	padding:20px;
+	font-size:30px;
+	margin:10px;
+	border-radius:20px;
+	color:black;
+}
+
+#process h4 {
+	font-family: 'Lemon', cursive;
+	text-align:center;
+	font-size:24px;
+}
+
+#process p {
+	font-size:20px;
+	text-align:left;
+	font-family: 'Nunito', sans-serif;
+	color: #000;
+}
+
+#work {
+	font-family: 'Helvetica', cursive;
+	background-color:#bfbfbf;
+	padding:10px;
+	font-size:30px;
+	margin:10px;
+	border-radius:20px;
+	color:black;
+	margin-top:30px;
+	margin-bottom:30px;
+}
+
+.footer .fa {
+  padding: 5px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
