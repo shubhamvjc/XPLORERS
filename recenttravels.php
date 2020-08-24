@@ -45,7 +45,7 @@ session_start();
   			<a class="nav-link" href="feedback.php" target="_self"><i class="fa fa-envelope-o"></i>Feedback</a>
   		</li>
       <li class="nav-item">
-        <a class="nav-link" href="home.html" target="_self"><i class="fa fa-sign-out"></i>Logout</a>
+        <a class="nav-link" href="index.html" target="_self"><i class="fa fa-sign-out"></i>Logout</a>
       </li>
     </ul>
 	</div>
